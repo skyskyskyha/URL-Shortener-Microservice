@@ -1,10 +1,10 @@
 # API Project: URL Shortener Microservice for freeCodeCamp
 这个project用到了MongoDB数据库，用于给每个网站一个编号，并能实现跳转到对应编号的网站
-参考一下几个攻略：
-https://baristure.medium.com/freecodecamp-apis-and-microservices-url-shortener-microservice-720951cb68db
-源代码：
-https://github.com/baristure/FreeCodeCampProjects
-视频：
+参考一下几个攻略：  
+https://baristure.medium.com/freecodecamp-apis-and-microservices-url-shortener-microservice-720951cb68db  
+  源代码：  
+https://github.com/baristure/FreeCodeCampProjects  
+  视频：  
 https://www.youtube.com/watch?v=dvCIN_pav8o
 
 ### User Stories
